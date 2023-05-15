@@ -4,4 +4,4 @@
 # poprawka do web-test
 # branch web-test   
 # zmienione na github
-
+# zmienione na github (origin/master)
