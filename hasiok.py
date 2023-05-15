@@ -5,3 +5,4 @@
 # branch web-test   
 # zmienione na github
 # zmienione na github (origin/master)
+# zmienione na github zmiana nr2 (origin/master)
